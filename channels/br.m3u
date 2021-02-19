@@ -133,6 +133,8 @@ https://596639ebdd89b.streamlock.net/tvuniao/tvuniao/playlist.m3u8
 https://596639ebdd89b.streamlock.net/8124/8124/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://img.imgur.com/pnbqx6r.png" group-title="General",TV8 (1080p)
 https://cdn.jmvstream.com/w/LVW-8215/ngrp:LVW8215_fL5vRbpRn1_all/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://www.tvt.org.br/wp-content/themes/tvt/images/logo.png" group-title="News",TVT
+https://stream-01.nyc.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4Gyf27dk184LOwAtL1au_YQc)/dm/3/x6ph7x7/s/live-3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/4GKZbXD.png" group-title="General",TVCI Paranaguá (360p)
 http://flash8.crossdigital.com.br/2306/2306/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/TVE_Bahia_logo.svg/800px-TVE_Bahia_logo.svg.png" group-title="Local",TVE Bahia
